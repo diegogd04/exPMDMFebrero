@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">exPMDMFebrero</string>
+    <string name="collection_text_tools">Album</string>
+    <string name="mushroom_name_tools">Album</string>
+    <string name="mushroom_date_tools">Album</string>
+    <string name="mushroom_description_tools">Album</string>
 </resources>
